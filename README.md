@@ -11,16 +11,31 @@ Ingeniero de Sistemas especializado en el desarrollo de software y la optimizaci
 
 ---
 
-### 📫 Contacto
+### 💼 Experiencia Laboral
 
-- **Correo:** [luiscarlosml1999@gmail.com](mailto:luiscarlosml1999@gmail.com)
+- **Full Stack Developer** | *Mawesi Software* `(Oct. 2021 - Presente)`
+  - Liderazgo y desarrollo de aplicaciones web escalables utilizando **.NET, Angular y Laravel/PHP**.
+  - Optimización de rendimiento en sistemas críticos e integración/modernización de interfaces web.
+  - Gestión y optimización de arquitectura de bases de datos en **MySQL y Oracle**.
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573216995156)
+- **Auxiliar de Desarrollo** | *GTC Corporation* `(Sep. 2021 - Oct. 2021)`
+  - Desarrollo y mantenimiento de aplicaciones empresariales en **Java**.
+
+- **Desarrollador Junior / Soporte Técnico** | *Grupo SAI S.A.S* `(Feb. 2019 - Sep. 2021)`
+  - Desarrollo de funcionalidades para software empresarial utilizando **PHP, Laravel, AJAX, JavaScript y Pascal**.
 
 ---
 
 ### 🛠️ Lenguajes y Tecnologías
-- **Backend:** PHP (Laravel), C# (.NET Core / Framework), Java
-- **Frontend:** Angular, TypeScript, JavaScript
-- **Bases de Datos:** MySQL, PostgreSQL, Oracle
-- **Herramientas & Metodologías:** Git, GitHub, Azure DevOps, Scrum
+- **Backend:** PHP (Laravel), C# (.NET Core / Framework).
+- **Frontend:** Angular, TypeScript, JavaScript.
+- **Bases de Datos:** MySQL, PostgreSQL, Oracle.
+- **Herramientas & Metodologías:** Git, Azure DevOps, Scrum.
+
+---
+
+### 📫 Contacto
+
+- **Correo:** [luiscarlosml@gmail.com](mailto:luiscarlosml@gmail.com)
+- **WhatsApp:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573216995156)
+- **Linkedin:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/luis-carlos-murillo-lopez/))

@@ -7,7 +7,7 @@ Ingeniero de Sistemas especializado en el desarrollo de software y la optimizaci
 - 🌱 **Actualmente perfeccionando:** Arquitecturas de software avanzadas y optimización de bases de datos relacionales.
 - 👯 **Busco colaborar en:** Proyectos Open Source, desarrollo web integral (aplicaciones y páginas) y mantenimiento de software.
 - 💬 **Pregúntame sobre:** PHP (Laravel), C# (.NET), Angular / TypeScript, SQL (MySQL, PostgreSQL, Oracle) y patrones de diseño.
-- ⚡ **Dato curioso:** Cuento con certificación en **Adobe Illustrator**, lo que me facilita la integración técnica con equipos de UX/UI.
+- 🎓 **Formación complementaria:** Certificación en **Adobe Illustrator** (integración fluida con equipos UX/UI) y estudios en automatización con **n8n**.
 
 ---
 
@@ -22,7 +22,7 @@ Ingeniero de Sistemas especializado en el desarrollo de software y la optimizaci
   - Desarrollo y mantenimiento de aplicaciones empresariales en **Java**.
 
 - **Desarrollador Junior / Soporte Técnico** | *Grupo SAI S.A.S* `(Feb. 2019 - Sep. 2021)`
-  - Desarrollo de funcionalidades para software empresarial utilizando **PHP, Laravel, AJAX, JavaScript y Pascal**.
+  - Desarrollo de funcionalidades para software contable utilizando **PHP, Laravel, AJAX, JavaScript y Pascal**.
 
 ---
 

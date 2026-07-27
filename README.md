@@ -5,7 +5,7 @@ Ingeniero de Sistemas especializado en el desarrollo de software y la optimizaci
 
 - 🔭 **Actualmente trabajando en:** Desarrollo Fullstack liderando aplicaciones escalables con **.NET, Angular y Laravel (PHP)**.
 - 🌱 **Actualmente perfeccionando:** Arquitecturas de software avanzadas y optimización de bases de datos relacionales.
-- 👯 **Busco colaborar en:** Proyectos *Open Source* y soluciones web complejas.
+- 👯 **Busco colaborar en:** Proyectos Open Source, desarrollo web integral (aplicaciones y páginas) y mantenimiento de software.
 - 💬 **Pregúntame sobre:** PHP (Laravel), C# (.NET), Angular / TypeScript, SQL (MySQL, PostgreSQL, Oracle) y patrones de diseño.
 - ⚡ **Dato curioso:** Cuento con certificación en **Adobe Illustrator**, lo que me facilita la integración técnica con equipos de UX/UI.
 
@@ -38,4 +38,4 @@ Ingeniero de Sistemas especializado en el desarrollo de software y la optimizaci
 
 - **Correo:** [luiscarlosml@gmail.com](mailto:luiscarlosml@gmail.com)
 - **WhatsApp:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573216995156)
-- **Linkedin:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/luis-carlos-murillo-lopez/))
+- **Linkedin:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-carlos-murillo-lopez/)
